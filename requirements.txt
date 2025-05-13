@@ -1,4 +1,4 @@
-nemo_toolkit['asr']
+nemo_toolkit[asr]
 gradio>=5.29.0
 click
 pydub>=0.25.1
